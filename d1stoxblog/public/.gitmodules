@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/d1stox/d1stox.github.io.git
+	branch = main

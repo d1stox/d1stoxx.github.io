@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on D1stox Blog ...</title>
+    <link>https://d1stox.github.io/posts/</link>
+    <description>Recent content in Posts on D1stox Blog ...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Feb 2022 15:29:03 +0200</lastBuildDate><atom:link href="https://d1stox.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello Friend</title>
+      <link>https://d1stox.github.io/posts/hello-friend/</link>
+      <pubDate>Mon, 07 Feb 2022 15:29:03 +0200</pubDate>
+      
+      <guid>https://d1stox.github.io/posts/hello-friend/</guid>
+      <description>Welcome !
+Just a Post to say hello!</description>
+      <content>&lt;p&gt;Welcome !&lt;/p&gt;
+&lt;p&gt;Just a Post to say hello!&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
